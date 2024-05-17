@@ -1,0 +1,144 @@
+
+/* CSS HEX 
+/* CSS HEX 
+-gray: #837976ff;
+--onyx: #3D3F42ff;
+--timberwolf: #E6E0D9ff;
+--madder: #AF0426ff;
+--caramel: #C87B46ff;
+ background-color:#FFED64ff ;
+*/
+
+.body{
+ 
+  color: #3D3F42ff;
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
+  width: 800px;
+  margin: 5px auto 5px auto;
+}
+
+body {
+  color: #3D3F42ff;
+  margin: 50px auto 50px auto;
+  width: 800px;
+  text-align: center;
+  line-height: 18px;
+
+}
+.mainWrapper{
+ 
+  background-color:rgb(249, 246, 243);
+  border-bottom: 10px solid #C87B46ff;
+  border-left: 10px solid #3D3F42ff ;
+  border-top: 10px solid #AF0426ff;
+  border-right: 10px solid #7C726Eff;
+  border-radius: 10px;
+}
+p {
+    color:#AF0426ff ;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    padding: 30px;
+    font-size: 18px;
+
+  }
+
+  
+  a{
+    color: rgb(27, 27, 28);
+    text-shadow: 2px 1px white;
+    text-decoration: none;
+  }
+
+  .caramel{
+    color: #C87B46ff;
+  }
+  .gray{
+    color: #7C726Eff;
+  }
+  .onyx{
+    color: #3D3F42ff;
+  }
+  .timberwolf{
+    color: #E6E0D9ff;
+  }
+  .madder{
+    color: #AF0426ff ;
+  }
+
+.space-up{
+ 
+  margin-top: 0;
+  padding-top: 30px;
+ 
+}
+h1,h2{
+  font-family:'Orbitron', sans-serif ;
+  line-height: 30px;
+}
+.dropping{
+  border-bottom: 2px solid #AF0426ff;
+  color: #AF0426ff;
+  display: block;
+  margin-right: 180px;
+  margin-left: auto;
+  width: 124px;
+  text-align: right;
+}
+.heroImage{
+  margin-top: 5px;
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid #FFED64ff ;
+  width: 250px;
+  height: 250px;
+  margin: -25px 0 0 -25px;
+  margin-bottom: 30px;
+}
+
+.btnWrapper{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+button{
+ 
+
+  border-radius: 5px;
+  color: green;
+  font-size: 16px;
+  font-weight: 600;
+  width: 180px;
+  height: 40px;
+  padding: 10px;
+}
+
+.rightButton{
+  margin-left: 20px;
+}
+
+h4{
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bold;
+}
+.contacts{
+  margin-top: 30px;
+}
+
+.profileImage{
+  margin-top: 5px;
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid #FFED64ff ;
+  width: 25px;
+  height: 25px;
+  margin: 10px auto 20 auto;
+
+}
+.socials{
+  display: flex;
+  justify-content: center;
+}
